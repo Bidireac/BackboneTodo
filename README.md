@@ -1,5 +1,5 @@
-# Widgets
-> A set of widgets created in React.
+# Backbone Todo
+> A Todo list created with Backbone.
 
 ## Table of Contents
 * [General info](#general-info)
@@ -8,21 +8,18 @@
 * [Status](#status)
 
 ## General info
-A set of widgets created to deepen my knowledge in React.
+A general todo list that uses the models, collections and the router of Backbone.
 	
 ## Technologies
 Project is created with:
-* Material-UI v4
-* React ^17
+* Backbone
+* jQuery
+* RequireJS
 
 ## Setup
-To run this project, open the file location in the terminal and run npm start.
+To run this project, open the index.html file.
 
-![demo](/demo/widgets-4.gif)
+![demo](/demo/BackboneTodo.gif)
 
 ## Status
 Project is:  _finished
-
-## Live Demo
-
-https://razvan-widgets-4.herokuapp.com/
